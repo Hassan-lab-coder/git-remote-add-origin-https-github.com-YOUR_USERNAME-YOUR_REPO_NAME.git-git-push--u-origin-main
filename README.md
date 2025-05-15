@@ -1,0 +1,11 @@
+SECRET_KEY=your_secret_key
+SQLALCHEMY_DATABASE_URI=postgresql://user:pass@host:port/dbname  # if using Postgres
+MAIL_SERVER=smtp.yourmail.com
+MAIL_PORT=587
+MAIL_USE_TLS=True
+MAIL_USERNAME=your_email@example.com
+MAIL_PASSWORD=your_email_password
+PAYPAL_CLIENT_ID=your_client_id
+PAYPAL_SECRET=your_secret
+STRIPE_API_KEY=your_stripe_secret
+FLUTTERWAVE_SECRET_KEY=your_flutterwave_key
